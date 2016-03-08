@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory.IntegrationTest", "Inventory.IntegrationTest\Inventory.IntegrationTest.csproj", "{4A84BD71-E527-4CF0-B4B2-12487AB3FB99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory.UnitTest", "Inventory.UnitTest\Inventory.UnitTest.csproj", "{114AFEA6-480F-4D03-AFCA-1788269C6F9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory", "Inventory\Inventory.csproj", "{BB6A1BA8-0389-4963-9C7A-208440792FD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A84BD71-E527-4CF0-B4B2-12487AB3FB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A84BD71-E527-4CF0-B4B2-12487AB3FB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A84BD71-E527-4CF0-B4B2-12487AB3FB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A84BD71-E527-4CF0-B4B2-12487AB3FB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114AFEA6-480F-4D03-AFCA-1788269C6F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114AFEA6-480F-4D03-AFCA-1788269C6F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114AFEA6-480F-4D03-AFCA-1788269C6F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114AFEA6-480F-4D03-AFCA-1788269C6F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB6A1BA8-0389-4963-9C7A-208440792FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6A1BA8-0389-4963-9C7A-208440792FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6A1BA8-0389-4963-9C7A-208440792FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6A1BA8-0389-4963-9C7A-208440792FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
